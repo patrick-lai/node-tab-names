@@ -1,4 +1,5 @@
-Renames an osx terminal to lead with `${package_name} - ${package_version}`.
+Renames an osx terminal to lead with:  
+`${package_name} - ${package_version}`.
 
 ### Usage
 
