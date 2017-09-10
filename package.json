@@ -1,6 +1,6 @@
 {
   "name": "rename-osx-terminal-tab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "renames osx terminal tab to see which process is running",
   "main": "src/index.js",
   "scripts": {
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/patrick-lai/rename-osx-terminal-tab.git"
   },
-  "keywords": [
-    "osx",
-    "terminal",
-    "webpack"
-  ],
+  "keywords": ["osx", "terminal", "webpack"],
   "author": "Patrick Lai",
   "license": "ISC",
   "bugs": {
