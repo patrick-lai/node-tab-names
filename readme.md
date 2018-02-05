@@ -9,7 +9,7 @@ Just `require` it somewhere close to the start of your process. e.g:
 Webpack.config.js
 ```
 // Top of file
-require('rename-osx-terminal-tab');
+require('node-tab-names');
 
 ...
 
@@ -21,7 +21,7 @@ index.js
 
 ```
 // Top of file
-require('rename-osx-terminal-tab');
+require('node-tab-names');
 
 ...some code...
 ```
